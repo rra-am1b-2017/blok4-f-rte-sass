@@ -1,0 +1,14 @@
+{
+  "name": "examentraining",
+  "version": "1.0.0",
+  "description": "Deze site is voor training voor het examen",
+  "main": "index.js",
+  "scripts": {
+    "sass-dev": "node-sass --watch --output-style expanded --source-map true process/scss/style.scss --output css"
+  },
+  "author": "Arjan de Ruijter",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
