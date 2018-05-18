@@ -14,7 +14,7 @@
     <div class="container-fluid">Zet hier je navbar</div>
     <div class="container">
       <article class="row">
-        <section class="row">
+        <section class="col-6">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/blauw.png" alt="blauw">
@@ -24,7 +24,7 @@
               </div>
           </div>        
         </section>
-        <section class="row">
+        <section class="col-6">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/bruin.png" alt="bruin">
@@ -34,7 +34,7 @@
               </div>
           </div>        
         </section>
-        <section class="row">
+        <section class="col-12">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/geel.png" alt="geel">
@@ -44,7 +44,7 @@
               </div>
           </div>        
         </section>
-        <section class="row">
+        <section class="col-12">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/goud.png" alt="goud">
@@ -54,7 +54,7 @@
               </div>
           </div>        
         </section>
-        <section class="row">
+        <section class="col-6">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/grijs.png" alt="grijs">
@@ -64,7 +64,7 @@
               </div>
           </div>        
         </section>
-        <section class="row">
+        <section class="col-6">
           <div class="card text-center">
               <div class="card-body">
                 <img src="./images/groen.png" alt="groen">
