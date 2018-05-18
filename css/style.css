@@ -10,4 +10,13 @@ h1 {
   background-color: cyan;
 }
 
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.container, .container-fluid {
+  border: 2px solid lightblue;
+}
+
 /*# sourceMappingURL=style.css.map */
