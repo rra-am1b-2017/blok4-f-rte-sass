@@ -16,13 +16,7 @@ img {
 }
 
 .container, .container-fluid {
-  border: 1px solid lightblue;
-}
-
-@media (max-width: 575.98px) {
-  .card-body {
-    background-color: orange;
-  }
+  border: 2px solid lightblue;
 }
 
 /*# sourceMappingURL=style.css.map */

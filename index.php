@@ -13,6 +13,7 @@
   <body>
     <div class="container-fluid">Zet hier je navbar</div>
     <div class="container">
+      <article>
       <article class="row">
         <section class="col-12 col-md-6 col-lg-4 col-xl-2">
           <div class="card text-center">

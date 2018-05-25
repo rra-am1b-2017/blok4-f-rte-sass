@@ -20,13 +20,10 @@ img {
   height: $square-size;
 }
 
+
 .container, .container-fluid {
-  border: 1px solid lightblue;
+  border: 2px solid lightblue;
 }
 
-@media (max-width: 575.98px) { 
-  .card-body {
-    background-color: orange;
-  }
-}
+
 
